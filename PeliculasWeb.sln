@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeliculasWeb", "consolanetcore\PeliculasWeb.csproj", "{34D77BC9-52B9-4423-BFD3-480B7230FF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D77BC9-52B9-4423-BFD3-480B7230FF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D77BC9-52B9-4423-BFD3-480B7230FF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D77BC9-52B9-4423-BFD3-480B7230FF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D77BC9-52B9-4423-BFD3-480B7230FF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C90E7AB-3395-4384-98E8-2CA805A7734D}
+	EndGlobalSection
+EndGlobal

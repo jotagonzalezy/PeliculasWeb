@@ -1,0 +1,12 @@
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.AssemblyInfoInputs.cache
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.AssemblyInfo.cs
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.csproj.CoreCompileInputs.cache
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/consolanetcore.deps.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/consolanetcore.runtimeconfig.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/consolanetcore.runtimeconfig.dev.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/consolanetcore.dll
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/consolanetcore.pdb
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.csprojAssemblyReference.cache
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.dll
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.pdb
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/consolanetcore.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/PeliculasWeb.deps.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/PeliculasWeb.runtimeconfig.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/PeliculasWeb.runtimeconfig.dev.json
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/PeliculasWeb.dll
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/bin/Debug/netcoreapp3.1/PeliculasWeb.pdb
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.AssemblyInfoInputs.cache
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.AssemblyInfo.cs
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.csproj.CoreCompileInputs.cache
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.dll
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.pdb
+/Users/juliogonzalezyanez/Projects/consolanetcore/consolanetcore/obj/Debug/netcoreapp3.1/PeliculasWeb.genruntimeconfig.cache
